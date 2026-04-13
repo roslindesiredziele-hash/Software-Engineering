@@ -15,3 +15,11 @@ def test_guess_incorrect_letter():
     result = w.guess("z")
     assert result is False
     assert "z" not in w.guessed
+def test_display_with_no_guesses():
+    w = Word("apple")
+    assert w.display() == "_ _ _ _ _"
+def test_display_with_some_guesses():
+    w = Word("apple")
+    w.guess("a")
+    w.guess("l")
+    assert w.display() == "a _ _ l _"
