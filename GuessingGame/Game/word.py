@@ -15,4 +15,7 @@ class Word:
             self.guessed.add(letter)
             return True
         return False
+    def display(self):
+        return " ".join("_" for _ in self.text)
+
 
