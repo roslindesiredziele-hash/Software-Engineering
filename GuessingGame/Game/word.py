@@ -9,5 +9,10 @@ class Word:
     def is_fully_guessed(self):
         pass
 
-    def display(self):
-        pass
+    def guess(self, letter):
+        letter = letter.lower()
+        if letter in self.text:
+            self.guessed.add(letter)
+            return True
+        return False
+
