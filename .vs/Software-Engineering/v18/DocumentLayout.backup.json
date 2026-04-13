@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\James\\source\\repos\\Software-Engineering\\GuessingGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B50CC987-6D0B-455E-8322-657E22D7B776}|GuessingGame.pyproj|C:\\Users\\James\\source\\repos\\Software-Engineering\\GuessingGame\\word.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B50CC987-6D0B-455E-8322-657E22D7B776}|GuessingGame.pyproj|solutionrelative:word.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "word.py",
+              "DocumentMoniker": "C:\\Users\\James\\source\\repos\\Software-Engineering\\GuessingGame\\word.py",
+              "RelativeDocumentMoniker": "word.py",
+              "ToolTip": "C:\\Users\\James\\source\\repos\\Software-Engineering\\GuessingGame\\word.py",
+              "RelativeToolTip": "word.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-04-13T14:35:42.962Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
